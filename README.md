@@ -16,5 +16,5 @@ Cloud and DevOps technologies used:
 <div>
   <a href="https://github.com/ydamni">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ydamni&count_private=true&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ydamni&layout=compact&langs_count=10"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ydamni&layout=compact&langs_count=10"/>
 </div>
