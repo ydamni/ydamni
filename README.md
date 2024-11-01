@@ -1,7 +1,5 @@
 # Hello, nice to meet you 👋
 
-Currently working at ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7.svg?style=for-the-badge&logo=Cisco&logoColor=white)
-
 You can find my Cloud and DevOps projects below :arrow_down: Take a look at them :eyes:
 
 ## Main technologies used
