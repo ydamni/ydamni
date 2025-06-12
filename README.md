@@ -6,7 +6,7 @@ I like DevOps... sometimes.
 
 <p float="left">
     <img height="32" width="32" src="https://cdn.simpleicons.org/hetzner/D50C2D"/>
-    <img height="32" width="32" src="https://cdn.simpleicons.org/amazonwebservices/FF9900" />
+    <img height="32" width="32" src="https://cdn.simpleicons.org/gitlab/FC6D26" />
     <img height="32" width="32" src="https://cdn.simpleicons.org/python/F5CF40"/>
     <img height="32" width="32" src="https://cdn.simpleicons.org/mongodb/47A248"/>
     <img height="32" width="32" src="https://cdn.simpleicons.org/docker/2496ED"/>
